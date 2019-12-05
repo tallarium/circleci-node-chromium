@@ -1,4 +1,4 @@
-FROM circleci/node:10-browsers
+FROM circleci/node:12-browsers
 
 WORKDIR /home/circleci
 
